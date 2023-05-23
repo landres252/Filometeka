@@ -2,10 +2,10 @@
   "name": "landres252",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/landres252/Filmoteka/",
+  "homepage": "https://landres252.github.io/FilomFilometekaeteka/",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /Filmoteka/"
+    "build": "parcel build src/index.html --public-url /Filometeka/"
   },
   "repository": {
     "type": "git",
